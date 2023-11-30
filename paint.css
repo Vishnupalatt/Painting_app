@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#canvas{
+    border: solid 2px black;
+}
+#color{
+    padding: 0px;
+    border: none;
+    background: none;
+    width: 45px;
+    height: 45px;
+
+}
+#thickness{
+    padding: 10px;
+}
